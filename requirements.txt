@@ -1,0 +1,13 @@
+torch>=2.0.0
+transformers>=4.35.0
+datasets
+pandas
+numpy
+neo4j
+scikit-learn
+matplotlib
+fairlearn
+flask
+fastapi
+streamlit
+pyyaml

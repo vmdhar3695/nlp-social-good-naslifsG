@@ -1,0 +1,3 @@
+# 🧠 NLP for Social Good — NASLIF-SG Framework
+
+A unified NeuroSymbolic Adaptive Language Integration Framework for Social Good (NASLIF-SG)...

@@ -1,0 +1,1 @@
+# Model architecture placeholder for NASLIF-SG
